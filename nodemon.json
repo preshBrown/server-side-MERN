@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "presh",
+        "DB_PASSWORD": "professional19",
+        "DB_NAME": "M_E_R_N",
+        "GOOGLE_API_KEY":"AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+} 
